@@ -1,0 +1,57 @@
+body,html{
+    height: 100%;
+    margin:0 auto;
+}
+.link{
+    color:bisque;
+    padding: 10px 20px;
+}
+.link:hover{
+    background: white;
+}
+.section1{
+    background: url(../img/ads.jpg);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-top: 60px;
+}
+.judul{
+    font-family: bebas neue;
+    font-size: 60px;
+    color: black;
+    margin: auto;
+}
+.sub-judul{
+    font-family: bebas neue;
+    font-size: 50;
+    color:black;
+    margin: auto;
+}
+.section2{
+    font-family: sans-serif;
+    background: grey;
+    padding: 70px 0px;
+    text-align: left;
+    text-decoration-style: dashed; 
+    color: azure;
+}
+.section3{
+    background: darkblue;
+    padding: 100px 0px;
+    color: blanchedalmond;
+}
+.col-warna{
+    background: red;
+    text-align: center;
+    font-family: sans-serif;
+}
+.col-warna2{
+    background: orange;
+    text-align: center;
+    font-family: sans-serif;
+}
+.col-warna3{
+    background: darkgreen;
+    text-align: center;
+    font-family: sans-serif;
