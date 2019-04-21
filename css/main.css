@@ -10,20 +10,21 @@ body,html{
     background: white;
 }
 .section1{
-    background: url(../img/ads.jpg);
+    background: url(../img/coffee-in-the-workplace_1112-114.jpg);
     width: 100%;
     height: 100%;
     text-align: center;
     margin-top: 60px;
+    background-size: cover;
 }
 .judul{
-    font-family: bebas neue;
+    font-family: anna;
     font-size: 60px;
     color: black;
     margin: auto;
 }
 .sub-judul{
-    font-family: bebas neue;
+    font-family: anna;
     font-size: 50;
     color:black;
     margin: auto;
@@ -37,21 +38,11 @@ body,html{
     color: azure;
 }
 .section3{
-    background: darkblue;
+    background: chocolate;
     padding: 100px 0px;
     color: blanchedalmond;
 }
-.col-warna{
-    background: red;
-    text-align: center;
-    font-family: sans-serif;
+.section4{
+    background: cyan;
+    padding: 100px 0px;
 }
-.col-warna2{
-    background: orange;
-    text-align: center;
-    font-family: sans-serif;
-}
-.col-warna3{
-    background: darkgreen;
-    text-align: center;
-    font-family: sans-serif;
